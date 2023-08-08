@@ -1,6 +1,6 @@
 public class assignment4_task1 {
     public static void main(String[] args) {
-                /* 
+          /* 
             Single Loop, Nested Loops
             Via +
             + + + + +
@@ -44,7 +44,7 @@ public class assignment4_task1 {
         System.out.println();
 
         //single loop
-        
+
 
 
     }
