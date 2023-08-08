@@ -45,16 +45,7 @@ public class assignment4_task1 {
 
         
         
-         /* 
-            Nested Loops
-            Via + / \
-            + + + + + +
-            + + / \ + +
-            + / / \ \ +
-            + \ \ / / +
-            + + \ / + +
-            + + + + + +
-          */
+         
 
           /*
             Nested Loops
