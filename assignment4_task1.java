@@ -41,24 +41,10 @@ public class assignment4_task1 {
             z--;
         }    
         
+        System.out.println();
+
+        //single loop
         
-
-        
-        
-         
-
-          
-
-           /*
-            Nested Loops
-            Via + Space
-                + 
-              + + +
-            + + + + + 
-              + + + 
-                + 
-            */
-
 
 
     }
