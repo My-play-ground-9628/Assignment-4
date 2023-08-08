@@ -43,27 +43,8 @@ public class assignment4_task1 {
         
         
 
-         /*
-            Single Loop, Nested Loops
-            Via +
-            + + + + + + +
-            + + +   + + +
-            + +       + +
-            +           +
-          */
-
-         /*
-            Nested Loops
-            Via + (Space)
-            + + + + + + +
-            + + +   + + +
-            + +       + +
-            +           +
-            + +       + +
-            + + +   + + +
-            + + + + + + +
-          */          
-
+        
+        
          /* 
             Nested Loops
             Via + / \
