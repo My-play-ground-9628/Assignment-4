@@ -1,4 +1,4 @@
-public class assignment4 {
+public class assignment4_task1 {
     public static void main(String[] args) {
                 /* 
             Single Loop, Nested Loops
